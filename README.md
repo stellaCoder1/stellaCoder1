@@ -24,7 +24,7 @@
     * JavaScript (for visualization libraries like D3.js)
     * Firebase
     * Redux
-    * Gatsby & Astro
+    * Gatsby & Astro.
 
 - 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗟𝗜𝗡𝗞𝗦:
     - ## 🔗 SEE ATTACHED
